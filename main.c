@@ -8,6 +8,7 @@ int main()
   
     int s=1,p=0,sc=-1;
     int w=0,l=0,d=0,flag=0;
+    printf(" Valid Inputs : ");
     printf("stone=1 scissor=-1 paper=0 \n");
      for (int i = 0; i < 5; i++)
     {
