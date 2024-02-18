@@ -1,2 +1,4 @@
+
 # stone-paper-scissor
-A small game using C
+<h2>A small game using C</h2>
+
